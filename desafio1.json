@@ -4,7 +4,7 @@
   "tabela_plano": "planos",
   "coluna_plano": "plano",
   "tabela_historico_de_reproducoes": "historico_reproducoes",
-  "coluna_historico_de_reproducoes": "cancao_id*",
+  "coluna_historico_de_reproducoes": "cancao_id",
   "tabela_seguindo_artistas": "seguidor_dos_artistas",
   "coluna_seguindo_artistas": "artista_id",
   "tabela_artista": "artistas",
@@ -12,5 +12,5 @@
   "tabela_album": "albuns",
   "coluna_album": "titulo_album",
   "tabela_cancoes": "cancoes",
-  "coluna_cancoes": "titulo_canção"
+  "coluna_cancoes": "titulo_cancao"
 }
